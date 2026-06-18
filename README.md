@@ -47,3 +47,11 @@ Features
 Technologies Used
 - Python
 - VS Code
+
+- Task 3: Password generator
+- a simple password generator bulit using python
+
+- features
+- user can choose password length
+- generates random passwords
+- uses letters,numbers and symbols
